@@ -14,7 +14,7 @@ Hack CCTV
 
 * pip install -r requirements.txt
 
-* python3 cam-hackers.py 
+* python3 SPY_CCTV.py 
 
 # EDALTKURD
 
