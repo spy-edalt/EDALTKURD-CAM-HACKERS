@@ -29,6 +29,6 @@ Hack CCTV
 <img src="https://github.com/spy-edalt/EDALTKURD-CAM-HACKERS/blob/main/Screenshot%20EDALTKURD3.png">
 
 
-<h3> Paypal donations: </h3>
+<h3> EDALTKURD </h3>
 
 
